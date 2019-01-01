@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+    width: 800px;
+    background-color: rgb(199, 198, 198)
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+table {
+    background-color: rgb(255, 147, 255);
+    border: solid;
+}
+th,
+td {
+    background-color: rgb(253, 197, 253);
+    border: solid;
+}
